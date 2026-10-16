@@ -1,0 +1,16 @@
+{
+  "name": "Recherche Mathis",
+  "short_name": "Recherche",
+  "description": "Offres d'emploi, événements et programmes en paix, médiation et éducation non formelle.",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f1e8",
+  "theme_color": "#f6f1e8",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icon-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
