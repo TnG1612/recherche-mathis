@@ -91,5 +91,21 @@
   "type": "Stage institutionnel",
   "url": "https://traineeships.ec.europa.eu/calendar-sessions_fr",
   "zone": "Belgique / Bruxelles"
+ },
+ {
+  "id": "saltonetwork-eu-strengthening-mentoring-european-solidarity-corps-training-trainers-and-multipliers-call",
+  "title": "Strengthening Mentoring in the European Solidarity Corps – Training of Trainers and Multipliers",
+  "org": "Agence du Service Civique (agence nationale française Erasmus+ Jeunesse / CES)",
+  "location": "Paris",
+  "zone": "France",
+  "type": "Formation de formateurs",
+  "dateStart": "2027-02-08",
+  "dateEnd": "2027-02-13",
+  "deadline": "2026-11-04",
+  "url": "https://saltonetwork.eu/strengthening-mentoring-european-solidarity-corps-training-trainers-and-multipliers/call",
+  "source": "SALTO (European Training Calendar)",
+  "summary": "Formation de formateurs à Paris sur le mentorat des volontaires du Corps européen de solidarité. Mathis connaît le CES de l'intérieur : une bonne porte d'entrée vers la facilitation et l'accompagnement de jeunes en éducation non formelle.",
+  "note": "Public visé : formateurs, mentors, tuteurs et coordinateurs de projets CES (25 places, en anglais) ; profil plutôt confirmé, à argumenter avec son expérience de volontaire. Candidature via SALTO, frais selon l'agence nationale d'envoi (Allemagne).",
+  "addedAt": "2026-10-19T08:30:25+02:00"
  }
 ]
