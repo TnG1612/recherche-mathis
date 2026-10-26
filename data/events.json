@@ -72,5 +72,21 @@
   "type": "Forum",
   "url": "https://www.salto-youth.net/tools/european-training-calendar/training/from-lived-experience-to-opportunity-knowledge-and-action-european-dialogue-capacity-building-forum-2027.15346/",
   "zone": "Autre Europe"
+ },
+ {
+  "id": "european-youth-event-europarl-europa-eu-fr",
+  "title": "European Youth Event 2027 (EYE2027)",
+  "org": "Parlement européen",
+  "location": "Strasbourg",
+  "zone": "France",
+  "type": "Forum",
+  "dateStart": "2027-06-18",
+  "dateEnd": "2027-06-19",
+  "deadlineNote": "Inscriptions des participants à partir de février 2027",
+  "url": "https://european-youth-event.europarl.europa.eu/fr",
+  "source": "european-youth-event.europarl.europa.eu",
+  "summary": "Deux jours au Parlement européen où des milliers de jeunes de 16 à 30 ans débattent de démocratie, de sécurité et des valeurs de l'UE avec des eurodéputés. Une bonne occasion pour Mathis de réseauter, voire d'y venir avec un groupe de jeunes de son ONG.",
+  "note": "Gratuit, mais voyage et hébergement à la charge des participants ; aide financière possible pour certains groupes de jeunes (appel prévu à l'automne 2026).",
+  "addedAt": "2026-10-26T08:23:10+01:00"
  }
 ]
